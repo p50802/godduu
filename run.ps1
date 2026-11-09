@@ -13,7 +13,7 @@
 
 & {
     # ---------- config (publish.ps1 updates these 3 lines) ----------
-    $Repo    = 'OWNER/REPO'
+    $Repo    = 'p50802/godduu'
     $Version = '2.2.0'
     $Sha256  = 'F442BB4526C105A4880D1997CB5F19399AA1E1A7BDC289F14E2FA7A8D513CB0F'
     # ---------------------------------------------------------------------------
